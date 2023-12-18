@@ -1,3 +1,14 @@
+# Project: Weather App using React and API
+
+Description:
+This project is a simple web application built with React that fetches weather data from an API based on a user-inputted city name. It displays various weather-related details such as temperature, weather description, wind speed, longitude, and latitude.
+
+Features:
+
+    City-based Weather Display: Allows users to input a city name and fetches weather data accordingly.
+    Weather Information: Shows temperature, weather description, wind speed, longitude, and latitude for the specified city.
+    API Integration: Utilizes external APIs to fetch real-time weather data based on the provided city name.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
